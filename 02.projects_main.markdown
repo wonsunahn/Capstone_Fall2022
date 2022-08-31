@@ -1,0 +1,173 @@
+---
+layout: page
+title: CS1980/1640
+permalink: /CS1980_1640/
+---
+
+# Projects
+[Follow this link to find a list of all projects]({{site.baseurl}}/projects)
+
+# Project Assignments
+[Check the assignments here.]({{site.baseurl}}/project_assignments)
+
+# Schedule
+[Check the schedule here]({{site.baseurl}}/projects_schedule).
+
+# Communication
+
+We will communicate via Discord, if you haven't joined ask your instructor for the link. This is the fastest way of getting clarification for your questions.
+Always ask questions in a public room, as this is the most effective way of getting help fast, e.g., if a classmate has the answer.
+
+
+## What are the expectations for the CS1640, CS1980 project?
+
+We expect the project to be doable in 12 weeks. We want projects that touch on at least three areas of computer science (for example, databases, web programming, and operating systems). In the end, we hope the students create something that can be usable. The project must be designed so that within 2-3 weeks the students understand the problem and can begin to make progress towards the goal.  Students are typically taking a full-load of classes and dedicate about 10 hours per week (each team member). An example problem: one term, one team was assigned to modify a large program. It took more than half the semester before the team and the mentor became aware that the project wasn't doable in the time frame with the amount of support given to the team.
+
+All students shall submit a paper on their project, as well as give an approximately 10 - 15 minute presentation on what they have done.  For students doing group projects, only one paper should be submitted per group and one presentation will be given per group.
+
+The first half of the class will include a couple of lectures on software engineering, for the first few lectures, followed by classes with a mix of talks and panel discussions.
+The second half shall be used as time for meeting with groups / sprint retrospectives / planning / etc..
+
+Project students will also need to submit some other assignments.
+
+
+
+
+
+## About Fairness
+
+Consistency and fairness matters to all of us. However, some of us may disagree on what is fair and what is not. Thus, you are encouraged to devote a good amount of time thinking about the project you want to spend time working on. The choice is yours. Always remember that “it is your project”.
+
+Projects are different in requirements, scope, size, locations, client, ...etc. Whatever project you choose to work on is up to you. The course instructor will not force any student to work on any project. The course instructor will not consider the difference in projects as an argument to miss due dates or negotiate deliverables.
+
+
+## Details on Project Development
+
+The goal of this course is to develop a project, from start to finish, using modern software engineering tools and techniques.  The final project should be _well-written, well-tested, and well-documented_.
+
+Unless dictated otherwise by the customer, work should be done using git and GitHub or GitLab.  Work should be done in a private repository, and I should be added as a collaborator (username is "luisfnqoliveira" on both sites).  Please sign up for a student developer pack (which includes free private repositories, along with other free software) here: https://education.github.com/pack
+
+Unless dictated otherwise by the customer, the project will be developed using the Agile/Scrum software design methodology.  We will discuss this more in class.  One of the key tenets is that there is always some "working" version of the software, even if it does not include all of the features.  This means that at any point, you should have a working version of the software to show customers (and professors)!
+
+We will consider every other class meeting the end of each sprint.  During this time, we will spend some time doing a retrospective in your groups - meeting for thirty minutes or so, in-person, to determine what went well with the last sprint and what could go better.  You will also come up with a plan for the next sprint.  Professor Luis Oliveira will be available at the end of each lecture to discuss the path forward with each group.
+
+Since student schedules are often hard to reconcile, I recommend you use a chat application such as Slack to stay in touch with each other, even when you cannot meet in person.
+
+As this is a capstone course, you are expected to be self-motivated and independent.  This may mean learning a new language, framework, architecture, etc.  Professional software engineers are often expected to learn these things independently, and you should be prepared to do so as well.  If you are unfamiliar with where to find training materials or information for a particular subject, you may discuss it with the instructor, but the onus is entirely on you to learn anything additional you need to know to complete the project.
+
+## Typical timeframes (in weeks)
+  * week 1 - project pitches
+  * week 2 - students interact with mentors, rank projects, receive assignment
+  * week  3 - students hand in page proposal
+  * week ~8 - students give a midterm presentation of progress with a demo
+  * weeks 3-14 - students carryout projects; talks and meetings every many classes
+  * weeks 14-15 - students give final presentations
+
+
+# Evaluations
+
+## If your grade is Pass/Fail
+If your grade is Pass/Fail, you will earn a pass if you successfully obtain a "C" or higher using the grading method below.
+
+## Grading method
+
+The grade you will earn for this course will be based on how well you demonstrate your learning and professionalism. Your performance in this course will be mapped to a letter grade according to the following specifications:
+
+| Letter<br>Grade | Individual<br>Tasks | Team<br>Deliverables | Peer<br>Evaluations | Instructor/Client<br>Evaluation | Product/Solution<br>Your project must be |
+|-------|-|-|-|-|---|
+| **A+**  | >=97% | >=97% | >=4.75/5 | >=4.75/5 | Subject to Instructor's Evaluation |
+| **A**   | >=93% | >=93% | >=4.50/5 | >=4.50/5 | ⇒ WORKING and meets ALL the client requirements with NO known bugs or problems according to instructor evaluation |
+| **A-**  | >=90% | >=90% | >=4.00/5 | >=4.00/5 | ⇗ |
+| **B+**  | >=87% | >=87% | >=3.75/5 | >=3.75/5 | ⇘ |
+| **B**   | >=83% | >=83% | >=3.50/5 | >=3.50/5 | ⇒ WORKING and meets ALL the client requirements with MINOR known bugs or problems according to instructor evaluation |
+| **B-**  | >=80% | >=80% | >=3.00/5 | >=3.00/5 | ⇗ |
+| **C+**  | >=77% | >=77% | >=2.75/5 | >=2.75/5 | ⇘ |
+| **C**   | >=73% | >=73% | >=2.50/5 | >=2.50/5 | ⇒ WORKING and meets >90% the client requirements with MINOR known bugs or problems according to instructor evaluation |
+| **C-**  | >=70% | >=70% | >=2.00/5 | >=2.00/5 | ⇗ |
+| **D+**  | >=67% | >=67% | >=1.75/5 | >=1.75/5 | ⇘ |
+| **D**   | >=63% | >=63% | >=1.50/5 | >=1.50/5 | ⇒ WORKING and meets >80% the client requirements with MINOR known bugs or problems according to instructor evaluation |
+| **D-**  | >=60% | >=60% | >=1.00/5 | >=1.00/5 | ⇗ |
+| **F**   | <60%  | <60%  | <1.00/5  | <1.00/5  | Otherwise |
+
+**Unless excused by the sponsor in the final evaluation form**, if your product/solution can’t be accessed/used by the instructor at the end of the semester your letter
+grade will be F. Otherwise, your final letter will be the median letter grade of the sorted letter grades for all of the criteria specified in the evaluation matrix above. Example: if you got "A-" in the Individual Tasks criteria, "A" in the Team Deliverables criteria, "B-" in the Peer Evaluation Average criteria, "B+" in the
+Instructor/Client Evaluation Average criteria, and "A" in the Product criteria, then sorting the letter grades
+results in [A, A, A-, B+, B-] and your final letter grade becomes "A-".
+
+If you have an "F" in any criteria other than "Product", your final letter grade will be the median letter grade
+downgraded by two letter grade. If you have a "D" in any criteria other than "Product", your final letter grade
+will be the median letter grade downgraded by one letter grade. Example: if you earn "F" in the Individual
+Tasks criteria, "A-" in the Team Deliverables criteria, "C" in the Peer Evaluation Average criteria, "B+"
+in the Instructor/Client Evaluation Average criteria, and "A-" in the Product criteria, then sorting the
+letter grades results in [A-, A-, B+, C, F] and your final letter grade becomes "B-" (which is two letter
+grades below "B+"). If you earn "D" in the Individual Tasks criteria, "A" in the Team Deliverables criteria,
+"A" in the Peer Evaluation Average criteria, "A" in the Instructor/Client Evaluation Average criteria, and
+"A" in the Product criteria, then sorting the letter grades results in [A, A, A, A, D] and your final letter
+grade becomes "A-" (which is one letter grade below A). A "G" grade will be granted for extenuating
+circumstances at the sole discretion of the instructor. Any student seeking a G grade will be required to
+submit corroborating documentation.
+
+## Individual Tasks
+There will be a collection of variable-size tasks for students to complete in this course. Tasks will have
+high-level directions on what you should do, objectives, and a due date. Each task will be worth 1 point,
+but there will be exceptions. Thus, you will have to pay close attention to the description of any task.
+One repeating task example is filling out a peer evaluation form at the end of each sprint. You will be
+required to fill out the peer evaluation forms promptly, honestly, clearly, and concisely. Task examples:
+meet with another team and give them feedback on their Installation Instructions, fill out an evaluation
+form for another team’s presentation, or create a tutorial on how to start a project using
+your project’s web framework.
+You will have a weekly or bi-weekly meeting with your client for which you have to take notes and
+write a meeting report. In addition, you have to attend all other teams’ presentations (at the end of the
+semester). Your participation in attending and evaluating other teams’s presentations will count toward
+your "Individual Tasks" letter grade. You will not receive any credit for a task that is performed after its
+due date. Note: Some tasks may be optional and will not be graded; you will know if this is the case.
+
+## Team Deliverables
+There will be, at least, five deliverables for
+teams to complete during this course. Each deliverable will have high-level directions on what you should do
+and a due date. Team members should collaborate on the deliverables in the way they find effective. Each
+team member will receive two grades for each deliverable. One grade is from the instructor and the other
+is from their peers. Any late submission will receive 75% of the grade and may not be processed until the
+end of the semester.
+
+### Proposal Paper
+  * [See Proposal]({{site.baseurl}}/project_proposal)
+
+### Midterm Update
+  * [See Midterm Update]({{site.baseurl}}/project_midterm_update)
+  * Includes informal presentation to the class
+
+### Final Project Presentation
+  * [An approximately ten to fifteen minute talk and a demo of the software]({{site.baseurl}}/project_presentation)
+  * May be replaced by a in-person poster session 
+  * Include features and technical decisions
+
+### Final Project Paper
+  * [See Final Paper]({{site.baseurl}}/project_final_paper)
+
+### Final Project Summary
+  * A single page with a summary of the project - More details closer to the end of the semester
+  * Used by your lovely instructor to advertise previous projects :)
+
+
+
+## Peer Evaluations
+Each sprint, you will be evaluated using a peer evaluation. The
+peer evaluation will be through a peer evaluation form filled out by your team mates for every sprint. The
+student’s peer evaluation grade is the average of the numbers assigned by their teammates. A student who
+did not fill out a Peer Evaluation Form for a given sprint will receive a ZERO score for the same sprint.
+Each form link will be shared between all team members. You should submit the form for yourself only
+(don’t submit on behalf of someone else). If any abuse of the survey system is suspected or detected, it may
+result in (1) deducting points, (2) failing the course, and/or (3) reporting the case as cheating.
+
+## Instructor/Client Evaluations
+Throughout the semester, you will be evaluated by the instructor and the client. By the end of the semester, the
+instructor will meet with the client and get their feedback on your performance and professionalism. Part of the instructor evaluation 
+will take place either during class time or during a prearranged out-of-class time. A
+bi-weekly instructor evaluation meeting (usually at the end of each sprint) will be used to evaluate the progress and amount of work you did
+during a given sprint. A student who misses the instructor evaluation meeting (without prior notice or an
+excuse) will not receive any score for that sprint.
+
+## Product
+At the end of each sprint, you must have a fully working product/solution that is accessible by the
+instructor and the customer. That is the spirit of using the Scrum method in this class. If your product/solution is not accessible at the end of the semester, the entire team will receive F as the final letter grade in this course.

@@ -1,0 +1,138 @@
+---
+layout: page
+title: CS1900/1950
+permalink: /CS1900_1950/
+---
+
+## Presentation Score Leader Board
+
+This table will be populated with (anonymous) peer review scores for each
+presentation, on each week when there is a presentation.  The top scorer
+will receive the [Best Capstone Speaker Award](#peer-review-organization).
+
+
+|         | Content | Organization | Delivery | Overall |
+|---------|---------|--------------|----------|---------|
+| Average | TO      | BE           | FILLED   | SOON    |
+
+
+## Your responsibilities
+
+You must fulfill all of these responsibilities to get a satisfactory grade:
+
+1. Attend each class synchronously.  See [Attendance](#attendance).
+
+1. Give a presentation on your work.  See [Presentation organization](#presentation-organization).
+
+1. Write a final paper.  See [Final paper organization](#final-paper-organization).
+
+1. Fill out peer reviews for each presentation on TopHat.  See [Peer review organization](#peer-review-organization)
+
+1. (CS 1950 students only) send regular progress reports.  See [Progress report organization](#progress-report-organization).
+
+Failure to fulfill any of the above responsibilities may result in a "Not
+Complete" grade or a penalty on your letter grade.
+
+## Attendance
+
+* TopHat attendance will be taken for each class.
+
+* Attendance must occur in-person.  If you have extenuating circumstance
+  (such as a medical or family emergency), please let me know immediately
+and I will allow remote particiation or other means of participation.
+
+* **NOTE:** You may miss **2 classes** in the entire semester without an
+  extenuating circumstance.  3 or more missed classes will result in a
+failure.
+
+
+## Presentation organization
+
+* We will conduct a Doodle Poll on presentation dates in class on our second
+  class (9/9).  The below link will go live on that date
+(first-come-first-serve):
+  * [Doodle Poll]()
+
+* Each student is expected to present for **8 minutes**.  Q&A is done online
+  through TopHat.  Please first check whether there is a duplicate question
+before posting, and just give a thumbs up if you had the same question.
+Presenters are expected to answer questions by the end of the day of their
+presentation.
+
+, with 5 minute Q&A
+  and 5 minute peer review.  There will be a folder in TopHat for each
+presenter, and under it, slides for the presentation, along with the peer
+review questions.  
+
+* Please review the [Lecture on Presentations](/lectures/lecture-on-presentations-internship.pdf) and the [Lecture on
+  Assertion Evidence Format](/lectures/lecture-on-assertion-evidence-format.pdf) before giving your presentation.  
+
+* Presenters must submit their presentation slides to the "Presentation Slides"
+  assignment on Canvas the day before, by **Thursday midnight**.  The slides
+will be uploaded to TopHat so that they can be reviewed by your classmates.
+The preferred format is PDF or Powerpoint.  
+
+* Recordings of presenters are uploaded to Canvas Panopto within an hour of the
+  talk.  Watching a recording of your own talk can be an enlightening
+experience (you can trust me on this).
+
+* **NOTE:** If your presentation is not satisfactory, you will be asked to
+  present once more with your instructor one-on-one outside of class hours.
+This will be your final chance to give a satisfactory presentation.
+
+## Final paper organization
+
+* Write a 8 - 12 page paper on your internship experience.  For details, see the
+[Final Paper Instructions]({{site.baseurl}}/final_paper).  PDF format is
+preferred.  The paper is to be submitted to Canvas by Friday midnight 
+of the week following your presentation.
+
+## Peer review organization
+
+* For each presenter, there will be a folder in TopHat containing the slides
+  for the presentation and a few peer review questions.  The TopHat questions
+should be submitted to TopHat by **Friday midnight** on the day of the
+presentation.
+
+* Please do not peer review yourself (obviously).
+
+* Please review [tips for writing a good review]({{site.baseurl}}/review_tips).
+  Be specific about what you liked and disliked.
+
+* Peer review scores are anonymized when posted to TopHat --- only score
+  averages will be made available to the presenter.  Also the peer reviews
+**will not impact the presenter's grade**.  That means you can give honest
+feedback and scores without feeling guilty about lowering your friend's
+grade.  The purpose is to give constructive feedback so that your friend can
+improve.  
+
+* Your scores will also be used to decide the Best Capstone Speaker award,
+which is given to three students with the highest overall scores (the sum of
+the Content, Organization, and Delivery scores).  Cash prizes of $100, $50,
+and $20 will be given to the PittFund$Me accounts of meriting students, as
+well as certificates.
+
+## Progress report organization
+
+This section is only for CS 1950 students.
+
+* Please send regular progress reports to both your instructor (me) and
+  research advisor by email, before each weekly or bi-weekly meeting.  
+
+* The report allows your research advisor to get a summary update of your
+  progress before starting each meeting.  It also allows your instructor to
+monitor your progress and spot communication problems before they become a
+major issue.  
+
+* The progress reports are meant to help you, not burden you.  The main
+  consumer of the report is your research advisor, so you can use whatever
+format conveys the information best to your advisor.
+
+* Your advisor will "Approve" your report if your progress is satisfactory ---
+  otherwise feedback will be given.
+
+## Important Links
+
+* [Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule)
+* [Peer Review Tips]({{site.baseurl}}/review_tips)
+* [Final Paper Instructions]({{site.baseurl}}/final_paper)
