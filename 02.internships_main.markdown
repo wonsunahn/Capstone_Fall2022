@@ -13,7 +13,7 @@ will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
 |         | Content | Organization | Delivery | Overall |
 |---------|---------|--------------|----------|---------|
-| Average | TO      | BE           | FILLED   | SOON    |
+| Average | TO      | BE           | FILLED   | IN      |
 
 
 ## Your responsibilities
@@ -54,21 +54,16 @@ failure.
   * [Doodle Poll]()
 
 * Each student is expected to present for **8 minutes**.  Q&A is done online
-  through TopHat.  Please first check whether there is a duplicate question
-before posting, and just give a thumbs up if you had the same question.
-Presenters are expected to answer questions by the end of the day of their
-presentation.
-
-, with 5 minute Q&A
-  and 5 minute peer review.  There will be a folder in TopHat for each
-presenter, and under it, slides for the presentation, along with the peer
-review questions.  
+  through TopHat (since we don't have time for an actual Q&A session).  When
+posting to TopHat, please first check whether there is a duplicate question,
+and just give a thumbs up if you have the same question.  Presenters are
+expected to answer questions by the end of the day of their presentation.
 
 * Please review the [Lecture on Presentations](/lectures/lecture-on-presentations-internship.pdf) and the [Lecture on
   Assertion Evidence Format](/lectures/lecture-on-assertion-evidence-format.pdf) before giving your presentation.  
 
 * Presenters must submit their presentation slides to the "Presentation Slides"
-  assignment on Canvas the day before, by **Thursday midnight**.  The slides
+  assignment on Canvas the day before, by **Thursday 9:00 PM**.  The slides
 will be uploaded to TopHat so that they can be reviewed by your classmates.
 The preferred format is PDF or Powerpoint.  
 
@@ -84,15 +79,15 @@ This will be your final chance to give a satisfactory presentation.
 
 * Write a 8 - 12 page paper on your internship experience.  For details, see the
 [Final Paper Instructions]({{site.baseurl}}/final_paper).  PDF format is
-preferred.  The paper is to be submitted to Canvas by Friday midnight 
-of the week following your presentation.
+preferred.  The paper is to be submitted to Canvas by **Friday midnight 
+of the week following your presentation**.
 
 ## Peer review organization
 
 * For each presenter, there will be a folder in TopHat containing the slides
   for the presentation and a few peer review questions.  The TopHat questions
-should be submitted to TopHat by **Friday midnight** on the day of the
-presentation.
+should be submitted to TopHat by **Friday midnight on the day of the
+presentation**.
 
 * Please do not peer review yourself (obviously).
 
