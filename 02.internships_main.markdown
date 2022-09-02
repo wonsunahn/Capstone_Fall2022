@@ -53,11 +53,23 @@ failure.
 (first-come-first-serve):
   * [Doodle Poll]()
 
-* Each student is expected to present for **8 minutes**.  Q&A is done online
-  through TopHat (since we don't have time for an actual Q&A session).  When
-posting to TopHat, please first check whether there is a duplicate question,
-and just give a thumbs up if you have the same question.  Presenters are
-expected to answer questions by the end of the day of their presentation.
+* There will be typically 5 students presenting each day.  That means 50 / 5 =
+  10 minutes per student.  Those 10 minutes is going to be broken down as
+follows:
+  * **8 minutes**: Presentation talk
+  * **2 minutes**: Intermission
+    * Audience: Peer review on TopHat, (if any) ask questions on Microsoft
+      Teams
+    * Current speaker: Returns to seat then starts answering questions on Microsoft
+      Teams.  Q&A is due by midnight of that day, if you don't finish.
+    * Next speaker: Immediately steps up to podium and starts preparing
+  * Presenters: Please keep your own time with your cell phone.  Please
+    understand that I have to cut you off at 9 minutes with no warning due to
+the tight schedule.
+  * Audience: Asking questions is optional (unlike peer reviews which are
+    mandatory).  Please only ask questions that you are genuinely curious
+about.  Also, if you see your question already asked on Teams, just gives a
+thumbs up so that the presenter does not have to answer twice. 
 
 * Please review the [Lecture on Presentations](/lectures/lecture-on-presentations-internship.pdf) and the [Lecture on
   Assertion Evidence Format](/lectures/lecture-on-assertion-evidence-format.pdf) before giving your presentation.  
