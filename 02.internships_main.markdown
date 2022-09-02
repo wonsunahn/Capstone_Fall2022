@@ -51,7 +51,7 @@ failure.
 * We will conduct a Doodle Poll on presentation dates in class on our second
   class (9/9).  The below link will go live on that date
 (first-come-first-serve):
-  * [Doodle Poll]()
+  * [Doodle Poll]()  
 
 * There will be typically 5 students presenting each day.  That means 50 / 5 =
   10 minutes per student.  Those 10 minutes is going to be broken down as
@@ -73,7 +73,7 @@ the tight schedule.
   * Audience: Asking questions is optional (unlike peer reviews which are
     mandatory).  Please only ask questions that you are genuinely curious
 about.  Also, if you see your question already asked on Teams, just gives a
-thumbs up so that the presenter does not have to answer twice. 
+thumbs up so that the presenter does not have to answer twice.  
 
 * Please review the [Lecture on Presentations](/lectures/lecture-on-presentations-internship.pdf) and the [Lecture on
   Assertion Evidence Format](/lectures/lecture-on-assertion-evidence-format.pdf) before giving your presentation.  
