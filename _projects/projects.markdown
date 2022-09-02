@@ -5,7 +5,9 @@ permalink: /projects/
 
 # Capstone Project List - WORK IN PROGRESS
 
-<!--SO FAR: ?-->
+Projects will soon be posted in this page!
+
+<!--SO FAR: 
 
 
 
@@ -364,3 +366,4 @@ All projects will make extensive use of JavaScript.  In some, but not all, cases
 
 * Team size: 2/3 students per project
 * POC: Takis Benos (benos@pitt.edu)
+?-->
