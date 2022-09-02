@@ -57,13 +57,17 @@ failure.
   10 minutes per student.  Those 10 minutes is going to be broken down as
 follows:
   * **8 minutes**: Presentation talk
+    * Speaker: Presents slides pre-uploaded to TopHat using instructor's
+      laptop.
+    * Audience: (If any) ask questions on Microsoft Teams.
   * **2 minutes**: Intermission
-    * Audience: Peer review on TopHat, (if any) ask questions on Microsoft
-      Teams
-    * Current speaker: Returns to seat then starts answering questions on Microsoft
-      Teams.  Q&A is due by midnight of that day, if you don't finish.
-    * Next speaker: Immediately steps up to podium and starts preparing
-  * Presenters: Please keep your own time with your cell phone.  Please
+    * Current speaker: Returns to seat then starts answering questions on
+      Microsoft Teams.  If you don't finish, make sure you finish by the end of
+the day please.
+    * Next speaker: Immediately steps up to podium and starts preparing.
+    * Audience: Takes notes for [peer reviews](#peer-review-organization).
+      Peer reviews are due midnight on TopHat.
+  * Speakers: Please keep your own time with your cell phone.  Please
     understand that I have to cut you off at 9 minutes with no warning due to
 the tight schedule.
   * Audience: Asking questions is optional (unlike peer reviews which are
