@@ -50,8 +50,8 @@ failure.
 
 * We will conduct a poll on presentation dates in class on our second class
   (9/9).  The below links will go live on that date (first-come-first-serve):
-  * [Doodle Poll for 11:00 AM class]()  
-  * [Doodle Poll for 1:00 PM class]()  
+  * [Poll for 11:00 AM class]()  
+  * [Poll for 1:00 PM class]()  
 
 * There will be typically 5 students presenting each day.  That means 50 / 5 =
   10 minutes per student.  Those 10 minutes is going to be broken down as
