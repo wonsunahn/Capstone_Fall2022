@@ -48,10 +48,10 @@ failure.
 
 ## Presentation organization
 
-* We will conduct a Doodle Poll on presentation dates in class on our second
-  class (9/9).  The below link will go live on that date
-(first-come-first-serve):
-  * [Doodle Poll]()  
+* We will conduct a poll on presentation dates in class on our second class
+  (9/9).  The below links will go live on that date (first-come-first-serve):
+  * [Poll for 11:00 AM class](https://rallly.co/p/NGxnZuEgxxUD)  
+  * [Poll for 1:00 PM class]()  
 
 * There will be typically 5 students presenting each day.  That means 50 / 5 =
   10 minutes per student.  Those 10 minutes is going to be broken down as
@@ -144,6 +144,7 @@ format conveys the information best to your advisor.
 
 ## Important Links
 
-* [Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule)
+* [Presentation Schedule (1010 Section)]({{site.baseurl}}/internship_presentation_schedule_1010)
+* [Presentation Schedule (1015 Section)]({{site.baseurl}}/internship_presentation_schedule_1015)
 * [Peer Review Tips]({{site.baseurl}}/review_tips)
 * [Final Paper Instructions]({{site.baseurl}}/final_paper)

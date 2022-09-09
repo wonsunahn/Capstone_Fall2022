@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CS 1900/1950 Presentation Schedule
-permalink: /internship_presentation_schedule
+title: Presentation Schedule (1010 Section)
+permalink: /internship_presentation_schedule_1010
 ---
 
 Don't forget to send your instructor your slides by the previous day midnight.
@@ -20,7 +20,11 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 16 SEP)
   
-* Student presentations
+* Stephen Arndt
+* Alejandro Ciuba
+* Amy East
+* Zachariah Feerrar
+* Taittinger Gabelhart
 
 ## WEEK 4 (Week of 23 SEP)
 
@@ -64,9 +68,15 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 14 (Week of 2 DEC)
 
-* Student presentations
+* Daniel Sawyer
+* Parth Shah
 
 ## WEEK 15 (Week of 9 DEC)
 
-* Student presentations
+* Josh Ackerman
+* Ishaan Bansal
+* Jefferson Leonata
+* Madison Little
+* Mark Louria
+
 * Best Capstone Speaker awards
