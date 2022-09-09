@@ -35,15 +35,19 @@ Over the course of this Capstone project, students will utilize several programm
 - Using Agile development.
 
 
-### CGI - [Client Onboarding]({{site.baseurl}}/projects/pdfs/CGI.pdf)
+### CGI - [Client Onboarding]({{site.baseurl}}/projects/pdfs/UniversityofPittsburghCGICapstoneFall2022ProjectOnboarding.pptx)
+
+**Check the PDF (link in the title)**
 
 * Team Size: 5/6 students
-* POC: Anthony DeLuca (anthony.deluca@cgi.com)
+* POC: Anthony DeLuca (anthony.deluca@cgi.com), Patrick Collins (patrick.collins@cgi.com)
 
-### CGI - [Prototype for Code vs Model based deployment with end to end model monitoring/tracking]({{site.baseurl}}/projects/pdfs/CGI.pdf)
+### CGI - [Prototype for Code vs Model based deployment with end to end model monitoring/tracking]({{site.baseurl}}/projects/pdfs/UniversityofPittsburghCGICapstoneFall2022ML.pdf)
+
+**Check the PDF (link in the title)**
 
 * Team Size: 3/4 students
-* POC: Anthony DeLuca (anthony.deluca@cgi.com)
+* POC: Surya Patchipala (surya.patchipala@cgi.com), Anthony DeLuca (anthony.deluca@cgi.com)
 
 
 ## CS Faculty Projects
@@ -79,7 +83,49 @@ The COVID-19 pandemic, climate crisis, regional conflicts, and the war in Ukrain
 
 
 
-### Mosse
+### Behavior, Fairness, and Safety in Traffic Control
+
+In recent years, several studies proposed different Reinforcement Learning (RL) methods and formulations for the Traffic Signal Control problem, presenting promising results and flexible traffic light solutions. Some of the studies investigate technical AI aspects (e.g., different neural network architectures, transfer learning, RL models, etc.), the coordination problem (e.g., distributed systems), while others are interested in the implementation side of things (e.g., Systems/IoT), just to name a few of the interests. 
+
+For this project, the focus is to verify how RL adaptive systems handle not only efficiency (e.g., minimize time loss) but also other important aspects of traffic control, namely, behavior changes in traffic flow due to expected and unexpected events, fairness between the different actors of the system, and safety (e.g., accidents prevention).
+
+Depending on the team interests, some topics/ideas include:
+    - pedestrian, cyclist, public transportation, and emergency vehicle oriented
+        - Detecting pedestrian activity (e.g., how many people and how long are they waiting to cross the street?)
+        - Handle fairness between vehicles and pedestrians; Give exclusivity to one in the absence of the other, within reason.
+        - Prioritize (virtual) bus corridors and promote quality of service (e.g., prioritize buses that are running late by extending the green light)
+        - Communicate emergency vehicle's route so the correct flows are prioritized in time; provide early notice to vehicles so they can open the way earlier (i.e., vehicles on the next block be already prepared when the emergency vehicle arrives); prioritize emergency vehicles even when they are not engaged in an active emergency
+    - weather, disruptions events, and safety aware
+        - Adapt traffic control to inclement weather (e.g., rain, snow, and fog, all of which make driving more dangerous and need to be studied)
+        - Detect anomalies in traffic behavior (e.g., accidents, constructions sites, emergencies, break-downs, debris, etc.) and automatically adapt signals to it; 
+        - Understand accidents patterns and prevent them through traffic control (and vice versa!);
+
+We are looking for self-motivated, independent individuals who are interested in real-world problems and applied AI. In this project, you will work with traffic simulators (e.g., Sumo, CityFlow) and RL. Python language is required for this project, and RL knowledge, although not required, may provide you with the opportunity to explore and experiment more within the time frame.
+
+Base References:
+https://smartpittsburgh.org/
+https://www.cmu.edu/traffic21/
+
+* Team Size: 3/4 students
+* POC: Marcelo D'Almeida (marcelo@pitt.edu)
+
+### RAWRS 
+For DECADES CS 447 was taught using MIPS assembly language. However, MIPS processors are not that common anymore (RIP PS and PS2) (they still live in network equipment though :).
+On the other hand, the RISC-V architecture (open-source) is gaining some momentum, and you can even buy some boards to have fun with it.
+
+We are still using MARS (which we all hate ;), but we want to push the development of an alternative that uses RISC-V. wilkie developed a web-based alternative, but it's still not ready for primetime: https://gitlab.com/wilkie/rawrs
+This tool is called RAWRS (RISC-V Assembler and Workable, Rewritable System) - it's an acronym it can mean whatever we want! - and it's a web-based tools (bye bye Java).
+
+The objective for this project is to develop this tool further to a point where it can be used for CS 447.
+- Review and test existing implementation.
+- Adapt the website (Javascript development) to new functionality (implement plugins).
+- Fix any outstanding/detected bugs in the software.
+
+The tool is written in (modern) Javascript where we predict most of the development will be focused. But you will also have the opportunity to stretch your assembly muscles. As the RISC-V simulator is backed by a RISC-V kernel :D
+
+* Team Size: 3 students
+* POC: Luis Oliveira (loliveira@pitt.edu)
+
 
 ### Allegheny County Policing Project (ACPP) v.2.0
 
@@ -111,6 +157,15 @@ There are no specific technology requirements for completion, except that it sho
 * Team size: 3/4 students
 * POC: Joseph Yurko (JYURKO@pitt.edu)
 
+### Gradescope and Project development for CS0401
+
+This team will be working on porting existing auto-testing tools used in CS0401 to Gradescope.
+Once that task is done, you will be developing new projects to be used in CS0401 and graded in that system.
+
+This project is open ended, so you will have the opportunity to discuss which projects and what they will look like as part of the project.
+
+* Team size: 3 students
+* POC: Tim Hoffman (hoffmant@pitt.edu)
 
 ## Other Capstones
 
