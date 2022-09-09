@@ -68,9 +68,15 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 14 (Week of 2 DEC)
 
-* Student presentations
+* Daniel Sawyer
+* Parth Shah
 
 ## WEEK 15 (Week of 9 DEC)
 
-* Student presentations
+* Josh Ackerman
+* Ishaan Bansal
+* Jefferson Leonata
+* Madison Little
+* Mark Louria
+
 * Best Capstone Speaker awards

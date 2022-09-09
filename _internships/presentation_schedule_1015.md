@@ -72,5 +72,9 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 15 (Week of 9 DEC)
 
-* Student presentations
+* Raja Krishnaswamy
+* Jeffrey Janotka
+* Will Knipe
+* Jacob Weir
+
 * Best Capstone Speaker awards
