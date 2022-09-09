@@ -109,6 +109,15 @@ https://www.cmu.edu/traffic21/
 * Team Size: 3/4 students
 * POC: Marcelo D'Almeida (marcelo@pitt.edu)
 
+### Energy efficient GPS
+
+Trackcycle is a mobile application designed to track bicycle trips while minimizing device power usage, without accepting major accuracy sacrifices.  It's LowPower MapMyRide or Strava.  To track location, the application turns the GPS on/off (ie, duty cycle), triggered by a combination of the on-device inertial measurement unit (IMU) and magnetometer sensors to detect when bicycle riders have veered off of a straight, easier-to-estimate path.  In essence, we only turn the GPS at curves: can we increase the accuracy and minimize the power used? 
+It is written in the Kotlin programming language, targeting the Android operating system at API level 31. In addition to the core goal of maintaining minimal power usage/maximal accuracy, goals of the project at this time include (a) to improve the duty-cycling mechanism's accuracy in detecting turns so that the GPS remains off more often than it currently does, (b) to enhance data collection used to evaluate power saving and accuracy, and (c) to improve path estimation during GPS-off time.
+
+* Team Size: 3/4 students
+* POC: Daniel Mossé (mosse@pitt.edu)
+
+
 ### RAWRS 
 For DECADES CS 447 was taught using MIPS assembly language. However, MIPS processors are not that common anymore (RIP PS and PS2) (they still live in network equipment though :).
 On the other hand, the RISC-V architecture (open-source) is gaining some momentum, and you can even buy some boards to have fun with it.
@@ -157,10 +166,10 @@ There are no specific technology requirements for completion, except that it sho
 * Team size: 3/4 students
 * POC: Joseph Yurko (JYURKO@pitt.edu)
 
-### Gradescope and Project development for CS0401
+### Gradescope and Project development for CS0445
 
-This team will be working on porting existing auto-testing tools used in CS0401 to Gradescope.
-Once that task is done, you will be developing new projects to be used in CS0401 and graded in that system.
+This team will be working on porting existing auto-testing tools used in CS0445 to Gradescope.
+Once that task is done, you will be developing new projects to be used in CS0445 and graded in that system.
 
 This project is open ended, so you will have the opportunity to discuss which projects and what they will look like as part of the project.
 
