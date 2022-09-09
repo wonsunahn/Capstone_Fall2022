@@ -22,7 +22,6 @@ The presentations will be given in the order they are listed on the particular d
   
 * Dastan Abdulla
 * Michael Bartlett
-* Preetam  Sreedath Bhamidipati
 * Austin Burnett
 * Jerry Chen
 
