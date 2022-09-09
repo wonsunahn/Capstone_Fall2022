@@ -21,10 +21,10 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 3 (Week of 16 SEP)
   
 * Stephen Arndt
-* Alejandro Ciuba
 * Amy East
 * Zachariah Feerrar
-* Taittinger Gabelhart
+* Rebekah Jenkins
+* Shivani Praveen
 
 ## WEEK 4 (Week of 23 SEP)
 
