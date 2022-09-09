@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS 1900/1950 Presentation Schedule (1010 Section)
+title: Presentation Schedule (1010 Section)
 permalink: /internship_presentation_schedule_1010
 ---
 
