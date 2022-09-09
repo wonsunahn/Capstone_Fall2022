@@ -7,6 +7,137 @@ permalink: /projects/
 
 Projects will soon be posted in this page!
 
+
+## Industry Capstone Projects
+
+### [Database Performance Optimizations Using SQLite]({{site.baseurl}}/projects/pdfs/NetApp-SOS-Pitt-Capstone-Abstract-Fall-2022.pdf)
+
+**_Project Background_**
+
+[ONTAP®](https://www.netapp.com/data-management/ontap-data-management-software/) is NetApp’s proprietary operating system powering a wide variety of hardware- and software-based data storage and retrieval systems, including storage disk arrays and cloud- hosted storage offerings. It helps users to create a storage infrastructure that reduces cost, accelerates critical workloads, and secures data. With countless operations going on in such systems every second, a high-functioning scalable database engine can have a massive impact on the system enabling higher scalability and faster data access speeds.
+SQLite is a widely used open-source software library that provides a relational database management system with full SQL support. It is feature-rich and highly configurable at compile and runtime. Using a series of optimization approaches interacting with SQLite, it is possible to realize significant savings using system resources and/or improve transaction performance. Undertaking database performance improvements can help us identify bottlenecks in the current design and enable the system to handle ever-increasing workloads.
+For this Capstone project, NetApp is looking to explore the efficiencies and the optimizations of using SQLite to further improve the performance of ONTAP® and provide a better user experience for our customers.
+
+**_Project Summary_**
+In this project, students will work on developing and testing various SQLite performance improvements. They will work on analyzing the results of the changes to see which improvements lead to more performant database operations. The creative student team can propose additional features and improvements to implement and test in collaboration with the NetApp engineering lead.
+
+**_Project Goals_**
+- Implement and run performance tests to analyze the impact of different changes in the use of SQLite as well as changes to SQLite library source code.
+- Present the results to NetApp engineers along with recommendations on which improvements to keep.
+- Stretch goal – Test additional improvements based on team’s investigation and findings.
+
+**_Project Details_**
+Over the course of this Capstone project, students will utilize several programming languages and concepts, including:
+- Coding in C/C++ to interact with SQLite library.
+- Making changes to open-source software projects.
+- Learning and enacting modern testing methodologies and practices.
+- Working with a large relational database to run the performance testing on.
+- Using Agile development.
+
+
+### CGI - [Client Onboarding]({{site.baseurl}}/projects/pdfs/CGI.pdf)
+
+* Team Size: 5/6 students
+* POC: Anthony DeLuca (anthony.deluca@cgi.com)
+
+### CGI - [Prototype for Code vs Model based deployment with end to end model monitoring/tracking]({{site.baseurl}}/projects/pdfs/CGI.pdf)
+
+* Team Size: 3/4 students
+* POC: Anthony DeLuca (anthony.deluca@cgi.com)
+
+
+## CS Faculty Projects
+
+### Data Science for Countering Hate
+Hate speech and hate crimes have surged across the world -- both online and offline. In Europe, instances of antisemitic, anti-Muslim, and other racist hate crimes have grown ​​at an alarming rate in many countries. In the US, hate crimes rose last year to the highest level in more than a decade -- more than half of hate crime incidents were motivated by bias against the victim's race, ethnicity, or ancestry, with a rise in assaults targeting Black and Asian Americans. During the coronavirus pandemic, social media platforms have become the main venues for the dissemination of hate-motivated behaviors. This project aims to create data science tools that analyze hate-motivated messages and their relationship with offline extremist events. We will develop tools that automatically collect relevant social media posts and extract features from texts that are predictive of offline hate. These tools will contribute to the fight against hate by supporting researchers, journalists, and inspectors to conduct qualitative or quantitative content analyses.
+
+**Project Details**: Over the course of this Capstone project, students will utilize several programming languages and data analytic packages. Students are expected to know or easily learn the following:
+**_Essential skillset_**
+    - Python/R; familiarity with data/text mining packages to create feature extraction component
+    - HTTP and data scraping tools to interact with RESTful APIs
+    - GitHub
+- Basic knowledge of Social Networks and Graph Theory.
+- Basic knowledge of NLP tasks, such as text embeddings, POS, NER, etc.
+- Front-end programming tools (i.e. React / JavaScript) to create interfaces and/or new visualization components. 
+* Team Size: 2 students
+* POC: Yu-Ru Lin (yurulin@pitt.edu) and Ahmad Diab (AHD23@pitt.edu)
+
+
+
+### Monitoring Africa's Food Insecurity from Text Data
+The COVID-19 pandemic, climate crisis, regional conflicts, and the war in Ukraine have altogether created severe food shortages across multiple countries in Africa. ​​More than 23 million people are experiencing extreme hunger in Ethiopia, Somalia, and Kenya, which is more than double the previous year. The ongoing war disruptions the global food supply chain, causing a surge in food prices worldwide, and now, African countries are facing the worst food crisis since 1945. This project aims to create a monitoring system for the ongoing food crisis that will identify events, policies, and other socioeconomic factors directly or indirectly linked to food insecurity in the region. We will develop tools that automatically collect relevant news reporting and extract features from texts that are predictive of future food crises. The project will contribute to the fight against world hunger by building a data-driven knowledge base.
+
+**_Project Details_**: Over the course of this Capstone project, students will utilize several programming languages and data analytic packages. Students are expected to know or easily learn the following:
+**_Essential skillset_**
+- Python/R; familiarity with data/text mining packages to create feature extraction component
+- HTTP and data scraping tools to interact with RESTful APIs
+- GitHub
+- Deep learning library such as pytorch to run experiments
+
+* Team Size: 2 students
+* POC: Yu-Ru Lin (yurulin@pitt.edu) and Yongsu Ahn (yongsu.ahn@pitt.edu)
+
+
+
+### Mosse
+
+### Allegheny County Policing Project (ACPP) v.2.0
+
+Since June 2020, Center for Analytical Approaches to Social Innovation student and community-led teams have been building web tools to help grassroots racial justice organizations. Our work reflects the contribution of more than 170 volunteers. In Fall 2021, CAASI launched 412Connect - a Black-owned Business scavenger hunt platform (news here and here), and Allegheny County Policing Project (ACPP) - a tool for Allegheny County residents to navigate our 100+ police departments and their complicated accountability rules (Year of Data and Society video here, 1Hood Power Hour video here).
+
+As we work to be able to replicate the ACPP website for other counties around the country (as a part of our 2022-2023 Pitt Seed project Building Data Science for Social Justice (DS4SJ)), generalizations and improvements to the site are required. For Fall 2022, we will need students interested in full stack web development to both: update the backend to better support other counties and update the frontend to improve the user experience accounting for the results of several user studies we have performed. 
+
+* Team size: 3/4 students
+* You will be working with:
+    - Capstone advisor: Prof Nick Farnan (SCI)
+    - CAASI Director: Prof Sera Linardi (GSPIA)
+    - CAASI Tech leads: Patrick Gavazzi (Tuft's), Collin Griffin
+    
+### A Web Framework for Social Justice
+Since June 2020, Center for Analytical Approaches to Social Innovation student and community-led teams have been building web tools to help grassroots racial justice organizations. As we work to spin up more web projects to further these goals, we want to avoid "reinventing the wheel" with every new initiative. As a part of our 2022-2023 Pitt Seed project Building Data Science for Social Justice (DS4SJ), we aim to build a skeleton project of best practices for new web projects. Towards this aim, we're looking for a team of students interested in full stack web development to research best practices, bundle the best components for the job together into a single project, streamline deployment of this project via Docker, develop sample tests for all project components, and write documentation to guide users of this framework. Our goal is to use this as a starting point, so that future projects can hit the ground running.
+* Team size: 3/4 students
+* You will be working with:
+    - Capstone advisor: Prof Nick Farnan (SCI)
+    - CAASI Director: Prof Sera Linardi (GSPIA)
+    - CAASI Tech leads: Patrick Gavazzi (Tuft's), Collin Griffin
+
+
+### Interactive website to help students plan their academic career in the Data Science major
+
+This capstone project aims at providing an interactive website to help students plan their academic career in the Data Science major. The website should allow a user (a student) to select courses of interest from a list. Upon selection, a network diagram will be visualized which includes not only the course(s) the user selected, but also all pre-requisite courses required to take before the selected course(s). This tool will allow the student to plan their trajectory path through the major. The visualization tool should be fully interactive, allowing the user to move the elements of the network diagram around the screen and change the colors as they see fit. The tool should allow the user to download a file containing the trajectory path so the student may store in their records. Time permitting, it would be great if several recommended trajectory paths could be provided as options to the user.
+
+There are no specific technology requirements for completion, except that it should be easy for someone with permissions to modify and/or add courses. This will let the tool grow and change as the major changes. Students do not need to identify courses within the major. All courses currently associated with the Data Science major have been catalogued. An example static network diagram is shown below. The project goal is to create a fully dynamic and interactive version of this diagram that can be tailored to a specific student.
+
+* Team size: 3/4 students
+* POC: Joseph Yurko (JYURKO@pitt.edu)
+
+
+## Other Capstones
+
+### UMS - Visual Novel Game
+This is a game development project that will pick up an already existant codebase and further develop it.
+
+Desired Features:
+- Biggest Feature: Ability to parse in written scripts that is interpreted into content (see below)
+- Start Screen with Menu Options New Game, Load Data, Options, Extra, and Exit
+- Phone Feature: Check document
+- Unique Backlog Feature
+- Staple VN Features
+
+**Check Canvas for details**
+
+* Team Size: 3/4 students
+* POC: Bortnick, Justin (jabortnick@pitt.edu)
+
+
+
+ 
+<!--SO FAR: 34+ -->
+
+
+
+
+
 <!--SO FAR: 
 
 
