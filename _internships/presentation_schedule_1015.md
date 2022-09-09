@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CS 1900/1950 Presentation Schedule
-permalink: /internship_presentation_schedule
+title: CS 1900/1950 Presentation Schedule (1015 Section)
+permalink: /internship_presentation_schedule_1015
 ---
 
 Don't forget to send your instructor your slides by the previous day midnight.

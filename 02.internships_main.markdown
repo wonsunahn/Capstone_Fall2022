@@ -144,6 +144,7 @@ format conveys the information best to your advisor.
 
 ## Important Links
 
-* [Presentation Schedule]({{site.baseurl}}/internship_presentation_schedule)
+* [Presentation Schedule (1010 Section)]({{site.baseurl}}/internship_presentation_schedule_1010)
+* [Presentation Schedule (1015 Section)]({{site.baseurl}}/internship_presentation_schedule_1015)
 * [Peer Review Tips]({{site.baseurl}}/review_tips)
 * [Final Paper Instructions]({{site.baseurl}}/final_paper)
