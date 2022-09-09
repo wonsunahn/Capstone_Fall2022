@@ -24,6 +24,7 @@ The presentations will be given in the order they are listed on the particular d
 * Michael Bartlett
 * Austin Burnett
 * Jerry Chen
+* Kevin Corcoran
 
 ## WEEK 4 (Week of 23 SEP)
 
