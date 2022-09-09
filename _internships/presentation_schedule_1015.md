@@ -21,10 +21,10 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 3 (Week of 16 SEP)
   
 * Dastan Abdulla
-* Michael Bartlett
-* Austin Burnett
 * Jerry Chen
 * Kevin Corcoran
+* Robbie Fishel
+* Ariane Seymour
 
 ## WEEK 4 (Week of 23 SEP)
 
