@@ -20,7 +20,11 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 16 SEP)
   
-* Student presentations
+* Dastan Abdulla
+* Michael Bartlett
+* Preetam  Sreedath Bhamidipati
+* Austin Burnett
+* Jerry Chen
 
 ## WEEK 4 (Week of 23 SEP)
 
