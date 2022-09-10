@@ -20,11 +20,11 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 16 SEP)
   
-* Stephen Arndt
 * Amy East
 * Zachariah Feerrar
 * Rebekah Jenkins
 * Shivani Praveen
+* Stephen Arndt
 
 ## WEEK 4 (Week of 23 SEP)
 
