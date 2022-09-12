@@ -10,13 +10,13 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 1 (Week of 2 SEP)
 
-* [Introduction to course requirements](/lectures/introduction-internship.pdf)
-* [Lecture on giving a good presentation](/lectures/lecture-on-presentations-internship.pdf)
+* [Introduction to course requirements](/internships/pdfs/lecture-on-presentations-internship.pdf)
+* [Lecture on giving a good presentation](/internships/pdfs/lecture-on-presentations-internship.pdf)
   
 
 ## WEEK 2 (Week of 9 SEP)
 
-* [Lecture on assertion evidence format](/lectures/lecture-on-assertion-evidence-format.pdf)
+* [Lecture on assertion evidence format](/internships/pdfs/lecture-on-assertion-evidence-format.pdf)
 
 ## WEEK 3 (Week of 16 SEP)
   
