@@ -36,11 +36,19 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 5 (Week of 30 SEP)
 
-* Student presentations
+* Isa Sulit-Peralejo
+* Taittinger Gabelhart
+* Nathan Myers
+* Samuel Kuchek
+* Tyree Spencer
 
 ## WEEK 6 (Week of 7 OCT)
 
-* Student presentations
+* logan lee
+* Chase Lane
+* Nick Maniscalco
+* Alex Glebavicius
+* Anna Yaksich
 
 ## WEEK 7 (Week of 14 OCT)
 
@@ -48,23 +56,43 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 8 (Week of 21 OCT)
 
-* Student presentations
+* Carson White
+* Tobias Hildebrandt
+* Jacob Kefalos
+* Cassandra Steighner
+* Tianyi Zheng
 
 ## WEEK 9 (Week of 28 OCT)
 
-* Student presentations
+* Dominic Campese
+* Zane Zeppuhar
+* Julian Bosley
+* Daulton Cipicchio
+* Eshwar Pitchiah
 
 ## WEEK 10 (Week of 4 NOV)
 
-* Student presentations
+* Yuanheng Qu
+* Birju Patel
+* Brian Hutton
+* Adam Wachowicz
+* Yuanzhe Huang
 
 ## WEEK 11 (Week of 11 NOV)
 
-* Student presentations
+* Dominique Mittermeier
+* Lindsey Rojtas
+* Dev Suri
+* Ryan Nguyen
+* Victor Mui
 
 ## WEEK 12 (Week of 18 NOV)
 
-* Student presentations
+* Spencer Reisig
+* Tait Kline
+* Jacob Kefalos
+* Vivian Ly
+* Sowmya Talasila
 
 ## WEEK 13 (Week of 25 NOV)
 
@@ -74,7 +102,8 @@ The presentations will be given in the order they are listed on the particular d
 
 * Daniel Sawyer
 * Parth Shah
-
+* Wentao Wu
+* Jacob Salmon
 ## WEEK 15 (Week of 9 DEC)
 
 * Josh Ackerman
