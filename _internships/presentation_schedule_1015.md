@@ -36,11 +36,18 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 5 (Week of 30 SEP)
 
-* Student presentations
-
+* Hailey Trampel
+* Matthew Glazar
+* Trevor Petersenx
+* Sodi Kroehler
+* Rohaan Wasim
 ## WEEK 6 (Week of 7 OCT)
 
-* Student presentations
+* Vy Nguyen
+* Robert Horvath
+* Raied Shoaib
+* Zachary Ogren
+* Austin Burnett
 
 ## WEEK 7 (Week of 14 OCT)
 
@@ -48,23 +55,43 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 8 (Week of 21 OCT)
 
-* Student presentations
+* Aaron Sutton
+* Matthew Bederman
+* Andres Trujillo
+* Nathan Nichol
+* Benjamin Schuman
 
 ## WEEK 9 (Week of 28 OCT)
 
-* Student presentations
+* Preetam Sreedath Bhamidipati
+* Janet Majekodunmi
+* Jennifer Zheng
+* Jeremy Tygh
+* Liam Woodward
 
 ## WEEK 10 (Week of 4 NOV)
 
-* Student presentations
+* Kirsten Salpukas
+* Merrick johnston
+* Lydon Pelletier
+* Johnathan Pepling
+* Eric Anderson
 
 ## WEEK 11 (Week of 11 NOV)
 
-* Student presentations
+* Makayla Miles
+* Greg Sack
+* Joseph Tornetta
+* Zachary Palmer
+* Camryn Simons
 
 ## WEEK 12 (Week of 18 NOV)
 
-* Student presentations
+* Derek Park
+* Shane Josapak
+* Meredith Madill
+* William Seeger
+* Michael Bartlett
 
 ## WEEK 13 (Week of 25 NOV)
 
@@ -72,7 +99,9 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 14 (Week of 2 DEC)
 
-* Student presentations
+* Christopher Hinson
+* Simon Schueller
+* Will Knipe
 
 ## WEEK 15 (Week of 9 DEC)
 
