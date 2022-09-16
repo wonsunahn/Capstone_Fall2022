@@ -38,7 +38,7 @@ The presentations will be given in the order they are listed on the particular d
 
 * Hailey Trampel
 * Matthew Glazar
-* Trevor Petersenx
+* Trevor Petersen
 * Sodi Kroehler
 * Rohaan Wasim
 ## WEEK 6 (Week of 7 OCT)
