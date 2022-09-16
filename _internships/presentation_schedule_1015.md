@@ -107,7 +107,6 @@ The presentations will be given in the order they are listed on the particular d
 
 * Raja Krishnaswamy
 * Jeffrey Janotka
-* Will Knipe
 * Jacob Weir
 
 * Best Capstone Speaker awards
