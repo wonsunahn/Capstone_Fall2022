@@ -28,7 +28,11 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 4 (Week of 23 SEP)
 
-* Student presentations
+* Sydni Roller
+* Anna Heltz
+* Evan Kozierok
+* Alejandro Ciuba
+* Stephen McKenna
 
 ## WEEK 5 (Week of 30 SEP)
 
