@@ -102,11 +102,14 @@ The presentations will be given in the order they are listed on the particular d
 * Christopher Hinson
 * Simon Schueller
 * Will Knipe
+* Qiran Li
+* Zhimin Li 
 
 ## WEEK 15 (Week of 9 DEC)
 
 * Raja Krishnaswamy
 * Jeffrey Janotka
 * Jacob Weir
+* Shiv Patel
 
 * Best Capstone Speaker awards
