@@ -14,7 +14,6 @@ will receive the [Best Capstone Speaker Award](#peer-review-organization).
 |         | Content | Organization | Delivery | Overall |
 |---------|---------|--------------|----------|---------|
 | Averages | 4.688 | 4.542 | 4.646 | 4.625      |
-| -------- | ----- | ----- | ----- | ---------- |
 | Averages | 4.49  | 4.367 | 4.46  | 4.43904762 |
 | Averages | 4.423 | 4.423 | 4.308 | 4.38461538 |
 | Averages | 4.308 | 4.404 | 4.423 | 4.37820513 |
