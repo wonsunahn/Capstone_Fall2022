@@ -13,7 +13,17 @@ will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
 |         | Content | Organization | Delivery | Overall |
 |---------|---------|--------------|----------|---------|
-| Average | TO      | BE           | FILLED   | IN      |
+| Averages | 4.688 | 4.542 | 4.646 | 4.625      |
+| -------- | ----- | ----- | ----- | ---------- |
+| Averages | 4.49  | 4.367 | 4.46  | 4.43904762 |
+| Averages | 4.423 | 4.423 | 4.308 | 4.38461538 |
+| Averages | 4.308 | 4.404 | 4.423 | 4.37820513 |
+| Averages | 4.143 | 4.327 | 3.918 | 4.1292517  |
+| Averages | 3.788 | 4.25  | 4.25  | 4.09615385 |
+| Averages | 4.115 | 3.904 | 4.25  | 4.08974359 |
+| Averages | 4.16  | 4.12  | 3.84  | 4.04       |
+| Averages | 3.771 | 3.063 | 4.414 | 3.74904215 |
+| Averages | 4.038 | 3.731 | 3.404 | 3.72435897 |
 
 
 ## Your responsibilities
