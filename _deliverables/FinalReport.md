@@ -60,21 +60,32 @@ outcomes is highly encouraged.  A picture is often worth a thousand words.
     1. Placement of my team in the organization.
     1. How the rest of the paper is organized.
     
-1. Objectives / Motivation
-    1. Business need for my work.
-    1. Final outcome of my project.
-  
-1. Implementation
-    1. Projects I worked on (with subsections for each project)
-    1. Programming languages, frameworks, and tools used.
-    1. Technical / organizational challenges and how I resolved them.
+1. Project 1
+    1. Objectives / Motivation
+        1. Business need for my work.
+        1. Expected final outcome of my project.
+    1. Implementation
+        1. Overall software / hardware architecture
+        1. Programming languages, frameworks, and tools used.
+    1. Technical challenges and how I resolved them (if relevant).
     1. Non-technical challenges (client communication etc., if relevant)
-    
-1. Outcome
-    1. Final outcomes of my project(s).
-    1. Business impact of the outcomes.
-    1. Unachieved goals due to technical or organizational difficulties.
+    1. Outcome
+        1. Final outcomes of my project.
+        1. Business impact of the outcomes.
 
+1. Project 2
+    1. Objectives / Motivation
+        1. Business need for my work.
+        1. Expected final outcome of my project.
+    1. Implementation
+        1. Overall software / hardware architecture
+        1. Programming languages, frameworks, and tools used.
+    1. Technical challenges and how I resolved them (if relevant).
+    1. Non-technical challenges (client communication etc., if relevant)
+    1. Outcome
+        1. Final outcomes of my project.
+        1. Business impact of the outcomes.
+        
 1. Issues and reflections
     1. Reflection on what I learned from the internship.  Were you able to fulfill all your learning goals?
     1. Issues in your organization that prevented you from reaching those goals (e.g. supervisor did not mentor you, there were organizational barriers, or employer changed goals when you got there).
@@ -102,7 +113,6 @@ outcomes is highly encouraged.  A picture is often worth a thousand words.
 1. Outcome
     1. Final outcomes of my project(s).
     1. Impact of the outcomes to research.
-    1. Unachieved goals due to technical or conceptual difficulties.
 
 1. Issues and reflections
     1. Reflection on what I learned from the internship.  Did you learn something new and exciting?
