@@ -42,9 +42,10 @@ In general, what I would like to see is a good understanding of what you did, an
 
 ## Paper Organization
 
-At below are organizations for either internships or research
-apprenticeships.  Please feel free to use your own organization.  **Regardless
-of what organization you use, your paper should be organized
+At below are example organizations for either internships or research
+apprenticeships.  These are given to you just to give you an idea of
+what an organization looks like.  Please feel free to use your own organization.
+**Regardless of what organization you use, your paper should be organized
 hierarchically into sections / subsections with corresponding section /
 subsection headers.**  Each section should focus on the topic described in the
 section header.  A section should comprise of one or more paragraphs that
