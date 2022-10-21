@@ -90,7 +90,6 @@ The presentations will be given in the order they are listed on the particular d
 
 * Spencer Reisig
 * Tait Kline
-* Jacob Kefalos
 * Vivian Ly
 * Sowmya Talasila
 
