@@ -104,6 +104,7 @@ The presentations will be given in the order they are listed on the particular d
 * Wentao Wu
 * Jacob Salmon
 * Chen Kai
+
 ## WEEK 15 (Week of 9 DEC)
 
 * Josh Ackerman
