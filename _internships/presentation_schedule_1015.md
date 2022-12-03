@@ -103,7 +103,6 @@ The presentations will be given in the order they are listed on the particular d
 * Simon Schueller
 * Will Knipe
 * Qiran Li
-* Zhimin Li 
 
 ## WEEK 15 (Week of 9 DEC)
 
@@ -111,5 +110,6 @@ The presentations will be given in the order they are listed on the particular d
 * Jeffrey Janotka
 * Jacob Weir
 * Shiv Patel
+* Zhimin Li
 
 * Best Capstone Speaker awards
